@@ -30,3 +30,6 @@ La interfaz Domesticable define el método serSociable.
 Las clases Gato y Perro implementan la interfaz Domesticable.
 La clase PerroGuardian hereda de Perro y sobrescribe algunos métodos.
 La clase Veterinaria puede contener un número limitado de gatos y perros (máximo 5).
+
+
+AFL-3.0
